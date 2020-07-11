@@ -9,3 +9,4 @@ Hello World! I’m a *semi*-MERN Stack Developer interested about discord bot's 
 - 📫 How to reach me: 
 > Discord: 제로ㅣBrazil#5005<br>Email: zero734kr@gmail.com<br>
 - 😄 Pronouns: "zero", or "제로" in korean.
+- ⚡ Fun fact: ~~하악 React.js 조아~~
