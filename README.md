@@ -7,7 +7,7 @@ Hello World! I’m a *semi*-MERN Stack Developer interested about discord bot's 
 - 👯 I’m looking to collaborate on discord bot projects or related platform development.
 - 🤔 I’m looking for help with MySQL(or its can be MariaDB), to learn about SQL databases.
 - 📫 How to reach me: 
-> Discord: 제로ㅣBrazil#5005<br>Email: zero734kr@gmail.com<br>
+> Discord: zero734kr#5005<br>Email: zero734kr@gmail.com<br>
 - 😄 Pronouns: "zero", or "제로" in korean.
 - ⚡ Fun fact: ~~하악 React.js 조아~~
 
