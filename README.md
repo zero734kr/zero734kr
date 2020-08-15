@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
   <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/JavaScript-1902%20commits-yellow.svg" alt="">
+    <img src="https://img.shields.io/badge/JavaScript-1902%20commits-f7df1e.svg" alt="">
   </a>
   <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/HTML-45%20commits-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/HTML-45%20commits-e34f26.svg" alt="">
   </a>
   <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/CSS-305%20commits-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/CSS-305%20commits-blue.svg" alt="">
   </a>
   <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/TypeScript-20%20commits-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/TypeScript-20%20commits-3178C6.svg" alt="">
   </a>
 </p>
 
