@@ -26,7 +26,7 @@ Hello World! I’m a MERN Stack Developer interested about discord bot's and how
 <br/>
 Sadly almost of my development projects are privates, like <a href="https://github.com/lostarkdiscord">lostark</a> project, and that's why I can't write here about it... I’m thinking about to make one to public in days from now.
 
-<br/>
+<br/><br/><br/>
 
 <a href="https://github.com/zero734kr">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zero734kr&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
