@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p>
+<p align="center">
   <a href="https://sourcerer.io/zero734kr">
     <img src="https://img.shields.io/badge/JavaScript-1902%20commits-yellow.svg" alt="">
   </a>
