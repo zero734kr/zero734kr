@@ -24,6 +24,7 @@ Hello World! I’m a MERN Stack Developer interested about discord bot's and how
 - How to reach me: ``Discord: zero734kr#5005`` or ``Email: zero734kr@gmail.com``
 - Fun fact: 279 commits in public repos, 1623 commits in privates repos :thinking: 
 <br/>
-Sadly almost of my development projects are privates, like [lostarkbot](https://github.com/lostarkdiscord) project, and that's why I can't write here about it... I’m thinking about to make one to public in days from now.
+Sadly almost of my development projects are privates, like <a href="https://github.com/lostarkdiscord">lostark</a> project, and that's why I can't write here about it... I’m thinking about to make one to public in days from now.
 
+<br/>
 [![zero734kr's github stats](https://github-readme-stats.vercel.app/api?username=zero734kr&show_icons=true&hide_border=true)](https://github.com/zero734kr)
