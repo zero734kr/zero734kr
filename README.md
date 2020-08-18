@@ -17,7 +17,7 @@
 Hello World! I’m a MERN Stack Developer interested about discord bot's and how to make a good CSS Styles.
 
 
-- [x] ~~I’m learned MERN Stack Development.~~
+- [x] ~~I learned MERN Stack Development.~~
 - [ ] I’m looking to collaborate on discord bot projects or related platform development.
 - [ ] I’m looking for help with MySQL(or its can be MariaDB), to learn about SQL databases.
 <br/><br/>
