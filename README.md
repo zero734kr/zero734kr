@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello World!</h1>
 <p align="center">
   <a href="https://sourcerer.io/zero734kr">
     <img src="https://img.shields.io/badge/JavaScript-1902%20commits-f7df1e.svg" alt="">
@@ -14,17 +14,10 @@
   </a>
 </p>
 
-Hello World! I’m a MERN Stack Developer interested about discord bot's and how to make a good CSS Styles.
-
-
-- [x] ~~I learned MERN Stack Development.~~
-- [ ] I’m looking to collaborate on discord bot projects or related platform development.
-- [ ] I’m looking for help with MySQL(or its can be MariaDB), to learn about SQL databases.
 <br/><br/>
-- How to reach me: ``Discord: zero734kr#5005`` or ``Email: zero734kr@gmail.com``
+- My development stack: [MERN Stack](https://www.mongodb.com/mern-stack)
+- How to reach me: Discord: zero734kr#5005 or Email: <a href="mailto:zero734kr@gmail.com">zero734kr@gmail.com</a>
 - Fun fact: 279 commits in public repos, 1623 commits in privates repos :thinking: 
-<br/>
-Sadly almost of my development projects are privates, like <a href="https://github.com/lostarkdiscord">lostark</a> project, and that's why I can't write here about it... I’m thinking about to make one to public in days from now.
 
 <br/><br/><br/>
 
