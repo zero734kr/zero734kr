@@ -39,5 +39,5 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 <a href="https://github.com/zero734kr">
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=zero734kr&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero734kr&layout=compact" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero734kr&layout=compact" />
 </a>
