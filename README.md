@@ -14,10 +14,14 @@
   </a>
 </p>
 
-<br/><br/>
-- My development stack: [MERN Stack](https://www.mongodb.com/mern-stack)
-- How to reach me: Discord: zero734kr#5005 or Email: <a href="mailto:zero734kr@gmail.com">zero734kr@gmail.com</a>
-- Fun fact: 279 commits in public repos, 1623 commits in privates repos :thinking: 
+
+Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/mern-stack) as my development stack.
+
+# 📫 How to reach me: 
+- [![Gmail Badge](https://img.shields.io/badge/-zero734kr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zero734kr@gmail.com)](mailto:zero734kr@gmail.com)
+- [![Kakao Mail Badge](https://img.shields.io/badge/-zero734kr@kakao.com-ffcd00?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:zero734kr@kakao.com)](mailto:zero734kr@kakao.com)
+- [![Discord Badge](https://img.shields.io/badge/-zero734kr#5005-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
+
 
 <br/><br/><br/>
 
