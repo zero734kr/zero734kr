@@ -17,6 +17,8 @@
 
 Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/mern-stack) as my development stack.
 
+<br /><br />
+
 <h1 align="center">How to reach me:</h1>
 
 <p align="center">
@@ -31,6 +33,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
   </a>
 </p>
 
+<br /><br />
 
 <h1 align="center">Statistics</h1>
 
