@@ -19,9 +19,17 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 <h1 align="center">How to reach me:</h1>
 
-- [![Gmail Badge](https://img.shields.io/badge/-zero734kr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zero734kr@gmail.com)](mailto:zero734kr@gmail.com)
-- [![Kakao Mail Badge](https://img.shields.io/badge/-zero734kr@kakao.com-ffcd00?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:zero734kr@kakao.com)](mailto:zero734kr@kakao.com)
-- [![Discord Badge](https://img.shields.io/badge/-zero734kr＃5005-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
+<p align="center">
+  <a href="mailto:zero734kr@gmail.com">
+    <img src="https://img.shields.io/badge/-zero734kr@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zero734kr@gmail.com" />
+  </a>
+  <a href="mailto:zero734kr@kakao.com">
+    <img src="https://img.shields.io/badge/-zero734kr@kakao.com-ffcd00?logo=Mail.Ru&logoColor=white&link=mailto:zero734kr@kakao.com" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/-zero734kr＃5005-7289da?logo=Discord&logoColor=white&link=https://discord.com" />
+  </a>
+</p>
 
 
 <h1 align="center">Statistics</h1>
