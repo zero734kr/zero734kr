@@ -1,21 +1,46 @@
 <h1 align="center">Hello World!</h1>
 <p align="center">
-  <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/JavaScript-1902%20commits-f7df1e.svg" alt="">
-  </a>
-  <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/HTML-45%20commits-e34f26.svg" alt="">
-  </a>
-  <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/CSS-305%20commits-blue.svg" alt="">
-  </a>
-  <a href="https://sourcerer.io/zero734kr">
-    <img src="https://img.shields.io/badge/TypeScript-20%20commits-3178C6.svg" alt="">
-  </a>
+  <img src="https://aleen42.github.io/badges/src/react.svg" alt="react"/>
+  <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
+  <img src="https://aleen42.github.io/badges/src/eslint.svg" alt="eslint"/>
+  <img src="https://aleen42.github.io/badges/src/node.svg" alt="node"/>
+  <img src="https://aleen42.github.io/badges/src/javascript.svg" alt="js"/>
+  <img src="https://aleen42.github.io/badges/src/typescript.svg" alt="ts"/>
 </p>
 
 
 Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/mern-stack) as my development stack.
+
+## Links
+
+* [Blog](https://blog.zerokr.xyz)
+* ~~website~~
+
+## Developing Projects
+
+* [LostArk Discord](https://discord.gg/lark), all project repositories are currently private.
+  - LOSTARK bot ``(not available for invites)``
+  - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(available for invites)``
+  - [lNotes](https://lnotes.zerokr.xyz) 
+* [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
+* [Olympia](https://olympia.gg), Web Dashboard based discord bot
+
+## Contribuiting to
+
+* [Dokdo](https://github.com/wonderlandpark/dokdo), easy debugging tool for discord.js.
+
+## Personal Projects
+
+* [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
+* ~~Discord Bot Analytics~~ (In development)
+
+## Interested In:
+
+* Frontend Tools
+  - [Snowpack](https://snowpack.dev)
+  - [Vite.js](https://vitejs.dev)
+* Web Designs (UI)
+* UX
 
 <br /><br />
 
