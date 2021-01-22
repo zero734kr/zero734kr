@@ -39,7 +39,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 * Frontend Tools
   - [Snowpack](https://snowpack.dev)
-  - [Vite.js](https://vitejs.dev)
 * Web Designs (UI)
 * UX
 * Memory Ownership by Rust
