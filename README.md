@@ -13,7 +13,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Links
 
-* [Blog](https://blog.zerokr.xyz)
 * ~~website~~
 
 ## Developing Projects
