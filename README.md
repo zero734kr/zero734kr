@@ -51,7 +51,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to zero734kr/zero734kr
-⬆️ Pushed 1 commit to zero734kr/olympia
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 ```
 
 ## Interested In:
@@ -89,10 +89,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Statistics
 
-<p align="center">Last refresh: <b>Monday, March 1st 2021, 11:53:27 pm UTC</b></p>
-
-------------
-
 <br />
 <section>
   <a href="https://github.com/zero734kr">
@@ -100,3 +96,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
     <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero734kr&layout=compact" />
   </a>
 </section>
+
+## Activities & Repos Status
+
+<p align="center">Last refresh: <b>Monday, March 1st 2021, 11:59:28 pm UTC</b></p>
