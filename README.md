@@ -25,6 +25,16 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 * [Olympia](https://olympia.gg), Web Dashboard based discord bot
 
+* Other projects [auto generated]:
+
+```
+⭐️ 13 📦 koreanbots/js-sdk
+⭐️ 3  📦 zero734kr/cody
+⭐️ 2  📦 zero734kr/bmi-calculator
+⭐️ 2  📦 zero734kr/dbcm
+⭐️ 2  📦 zero734kr/process-keep-alive
+```
+
 ## Contribuiting to
 
 * [Dokdo](https://github.com/wonderlandpark/dokdo), easy debugging tool for discord.js.
@@ -33,6 +43,16 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 * [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
 * ~~Discord Bot Analytics~~ (TBD)
+
+## My Activities
+
+```
+⬆️ Pushed 1 commit to zero734kr/zero734kr
+⬆️ Pushed 1 commit to zero734kr/zero734kr
+⬆️ Pushed 1 commit to zero734kr/zero734kr
+⬆️ Pushed 1 commit to zero734kr/olympia
+❗️ Closed issue #71 in wonderlandpark/dokdo
+```
 
 ## Interested In:
 
@@ -68,6 +88,9 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 </ul>
 
 ## Statistics
+
+<p align="center">Last refresh: <b>Monday, March 1st 2021, 11:49:50 pm UTC</b></p>
+------------
 
 <section>
   <a href="https://github.com/zero734kr">
