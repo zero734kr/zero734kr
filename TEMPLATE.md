@@ -81,10 +81,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Statistics
 
-<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b></p>
-
-------------
-
 <br />
 <section>
   <a href="https://github.com/zero734kr">
@@ -92,3 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
     <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero734kr&layout=compact" />
   </a>
 </section>
+
+## Activities & Repos Status
+
+<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b></p>
