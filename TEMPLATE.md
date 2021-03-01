@@ -82,8 +82,10 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## Statistics
 
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b></p>
+
 ------------
 
+<br />
 <section>
   <a href="https://github.com/zero734kr">
     <img width="47%" align="left" height="60%" src="https://github-readme-stats.vercel.app/api?username=zero734kr&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
