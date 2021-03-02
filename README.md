@@ -87,9 +87,9 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
   </li>
 </ul>
 
-## Activities & Repos Update Status
+## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Tuesday, March 2nd 2021, 12:00:45 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, March 2nd 2021, 12:01:59 am UTC</b></p>
 
 ## Statistics
 
