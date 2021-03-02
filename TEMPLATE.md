@@ -79,7 +79,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
   </li>
 </ul>
 
-## Activities & Repos Update Status
+## Activities & Projects Update Status
 
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b></p>
 
