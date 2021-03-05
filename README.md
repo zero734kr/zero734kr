@@ -47,9 +47,9 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+❗️ Closed issue #2 in choshinyoung/watermelon
+🗣 Commented on #2 in choshinyoung/watermelon
 ❗️ Opened issue #2 in choshinyoung/watermelon
-⬆️ Pushed 1 commit to zero734kr/zero734kr
-⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to zero734kr/zero734kr
 ```
@@ -89,7 +89,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Friday, March 5th 2021, 3:59:23 pm UTC</b></p>
+<p align="center">Last refresh: <b>Friday, March 5th 2021, 5:22:22 pm UTC</b></p>
 
 ## Statistics
 
