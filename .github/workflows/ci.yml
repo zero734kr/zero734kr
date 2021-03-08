@@ -29,5 +29,3 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        coauthor_email: zero734kr@gmail.com
-        coauthor_name: zero734kr
