@@ -47,11 +47,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
-⬆️ Pushed 10 commits to koreanbots/js-sdk
-⬆️ Pushed 5 commits to koreanbots/js-sdk
-🎉 Merged PR #23 in koreanbots/js-sdk
-⬆️ Pushed 5 commits to koreanbots/js-sdk
+⬆️ Pushed 20 commits to koreanbots/js-sdk
+⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 4 commits to koreanbots/js-sdk
+⬆️ Pushed 3 commits to koreanbots/js-sdk
+🎉 Merged PR #29 in koreanbots/js-sdk
 ```
 
 ## Interested In:
@@ -89,7 +89,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Monday, March 8th 2021, 6:59:26 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, March 8th 2021, 7:49:01 pm UTC</b></p>
 
 ## Statistics
 
