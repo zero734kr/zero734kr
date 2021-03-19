@@ -38,7 +38,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## Personal Projects
 
 * [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
-* ~~Discord Bot Analytics~~ (TBD)
 
 ## My Activities
 
