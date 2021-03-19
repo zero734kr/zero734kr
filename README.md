@@ -42,16 +42,15 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## Personal Projects
 
 * [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
-* ~~Discord Bot Analytics~~ (TBD)
 
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 1 commit to zero734kr/dokdo
 ❌ Closed PR #43 in zero734kr/dokdo
 ❌ Closed PR #42 in zero734kr/dokdo
-❌ Closed PR #41 in zero734kr/dokdo
 ```
 
 ## Interested In:
@@ -89,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Friday, March 19th 2021, 11:49:19 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, March 19th 2021, 12:43:26 pm UTC</b></p>
 
 ## Statistics
 
