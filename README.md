@@ -28,7 +28,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 * Other projects [auto generated]:
 
 ```
-⭐️ 15 📦 koreanbots/js-sdk
+⭐️ 14 📦 koreanbots/js-sdk
 ⭐️ 3  📦 zero734kr/cody
 ⭐️ 2  📦 zero734kr/bmi-calculator
 ⭐️ 2  📦 zero734kr/dbcm
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Monday, March 22nd 2021, 10:55:57 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, March 22nd 2021, 11:49:44 am UTC</b></p>
 
 ## Statistics
 
