@@ -46,11 +46,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/alephjs-test
 🗣 Commented on #62 in jerolimov/react-showdown
 🗣 Commented on #62 in jerolimov/react-showdown
 ⬆️ Pushed 21 commits to zero734kr/dokdo
 ⬆️ Pushed 1 commit to zero734kr/dokdo
-⬆️ Pushed 1 commit to zero734kr/zero734kr
 ```
 
 ## Interested In:
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Monday, March 29th 2021, 3:59:50 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, March 29th 2021, 5:05:28 pm UTC</b></p>
 
 ## Statistics
 
