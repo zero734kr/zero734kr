@@ -46,11 +46,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/petitio
 🗣 Commented on #11 in helperdiscord/petitio
 ⬆️ Pushed 1 commit to zero734kr/petitio
 ⬆️ Pushed 1 commit to zero734kr/petitio
 🗣 Commented on #11 in helperdiscord/petitio
-💪 Opened PR #11 in helperdiscord/petitio
 ```
 
 ## Interested In:
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Thursday, April 1st 2021, 10:13:43 pm UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, April 1st 2021, 11:03:22 pm UTC</b></p>
 
 ## Statistics
 
