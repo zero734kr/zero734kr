@@ -46,10 +46,10 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+💪 Opened PR #1 in kijk2869/discodo.js
 🍴 Forked zero734kr/discodo.js from kijk2869/discodo.js
 ⬆️ Pushed 1 commit to zero734kr/petitio
 🗣 Commented on #11 in helperdiscord/petitio
-⬆️ Pushed 1 commit to zero734kr/petitio
 ⬆️ Pushed 1 commit to zero734kr/petitio
 ```
 
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Saturday, April 3rd 2021, 7:49:04 pm UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, April 3rd 2021, 8:50:02 pm UTC</b></p>
 
 ## Statistics
 
