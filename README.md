@@ -47,10 +47,10 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ```
 ⬆️ Pushed 1 commit to koreanbots/things-to-read
-💪 Opened PR #10 in koreanbots/things-to-read
 ⬆️ Pushed 1 commit to koreanbots/things-to-read
-🗣 Commented on #832 in Eugeny/terminus
-⬆️ Pushed 1 commit to zero734kr/discodo.js
+⬆️ Pushed 1 commit to koreanbots/things-to-read
+⬆️ Pushed 1 commit to koreanbots/things-to-read
+💪 Opened PR #10 in koreanbots/things-to-read
 ```
 
 ## Interested In:
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Tuesday, April 13th 2021, 10:53:19 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, April 13th 2021, 11:53:28 pm UTC</b></p>
 
 ## Statistics
 
