@@ -46,7 +46,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
-⬆️ Pushed 1 commit to koreanbots/things-to-read
+❌ Closed PR #5 in zero734kr/ohmygirl-calendar-api
 ⬆️ Pushed 1 commit to koreanbots/things-to-read
 ⬆️ Pushed 1 commit to koreanbots/things-to-read
 ⬆️ Pushed 1 commit to koreanbots/things-to-read
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Friday, April 16th 2021, 1:51:31 pm UTC</b></p>
+<p align="center">Last refresh: <b>Friday, April 16th 2021, 2:50:18 pm UTC</b></p>
 
 ## Statistics
 
