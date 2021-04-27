@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://aleen42.github.io/badges/src/react.svg" alt="react"/>
   <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
-  <img src="https://aleen42.github.io/badges/src/eslint.svg" alt="eslint"/>
   <img src="https://aleen42.github.io/badges/src/node.svg" alt="node"/>
   <img src="https://aleen42.github.io/badges/src/javascript.svg" alt="js"/>
   <img src="https://aleen42.github.io/badges/src/typescript.svg" alt="ts"/>
@@ -47,9 +46,9 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ```
 ⬆️ Pushed 1 commit to zero734kr/zero734kr
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 🗣 Commented on #19 in koreanbots/verification
 📦 Released "v2.0.10" in koreanbots/js-sdk
-⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
 ```
 
@@ -88,7 +87,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Tuesday, April 27th 2021, 12:04:23 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, April 27th 2021, 12:10:54 pm UTC</b></p>
 
 ## Statistics
 
