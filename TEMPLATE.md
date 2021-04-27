@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://aleen42.github.io/badges/src/react.svg" alt="react"/>
   <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
-  <img src="https://aleen42.github.io/badges/src/eslint.svg" alt="eslint"/>
   <img src="https://aleen42.github.io/badges/src/node.svg" alt="node"/>
   <img src="https://aleen42.github.io/badges/src/javascript.svg" alt="js"/>
   <img src="https://aleen42.github.io/badges/src/typescript.svg" alt="ts"/>
