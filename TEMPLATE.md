@@ -21,7 +21,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
   - LOSTARK bot ``(not available for invites)``
   - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(available for invites)``
   - [lNotes](https://lnotes.zerokr.xyz) 
-  - ~~LostArk Discord Official Website~~ (in development)
+  - [LostArk Discord Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 * [Olympia](https://olympia.gg), Web Dashboard based discord bot
 
