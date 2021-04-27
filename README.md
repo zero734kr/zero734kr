@@ -21,7 +21,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
   - LOSTARK bot ``(not available for invites)``
   - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(available for invites)``
   - [lNotes](https://lnotes.zerokr.xyz) 
-  - ~~LostArk Discord Official Website~~ (in development)
+  - [LostArk Discord Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 * [Olympia](https://olympia.gg), Web Dashboard based discord bot
 
@@ -46,11 +46,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 🗣 Commented on #19 in koreanbots/verification
 📦 Released "v2.0.10" in koreanbots/js-sdk
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
-⬆️ Pushed 1 commit to koreanbots/koreanbots
 ```
 
 ## Interested In:
@@ -88,7 +88,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Tuesday, April 27th 2021, 11:49:36 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, April 27th 2021, 12:04:23 pm UTC</b></p>
 
 ## Statistics
 
