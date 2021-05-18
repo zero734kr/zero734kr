@@ -57,7 +57,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 * [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI)
 
-## How to reach me:
+## How to contact me:
 
 <ul>
   <li>
