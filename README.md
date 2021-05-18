@@ -45,11 +45,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to koreanbots/things-to-read
 ❗️ Opened issue #1662 in swc-project/swc
 ⬆️ Pushed 44 commits to zero734kr/dokdo
 🎉 Merged PR #76 in zero734kr/dokdo
-💪 Opened PR #76 in zero734kr/dokdo
 ```
 
 ## Interested In:
@@ -65,7 +65,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 * [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI)
 
-## How to reach me:
+## How to contact me:
 
 <ul>
   <li>
@@ -87,7 +87,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 6:39:26 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 6:45:31 pm UTC</b></p>
 
 ## Statistics
 
