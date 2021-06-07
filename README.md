@@ -5,7 +5,6 @@
   <img src="https://aleen42.github.io/badges/src/node.svg" alt="node"/>
   <img src="https://aleen42.github.io/badges/src/javascript.svg" alt="js"/>
   <img src="https://aleen42.github.io/badges/src/typescript.svg" alt="ts"/>
-  <img src="https://komarev.com/ghpvc/?username=zero734kr&label=Profile%20views&color=0e75b6&style=flat" alt="zero734kr" />
 </p>
 
 
@@ -46,8 +45,8 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 🗣 Commented on #11 in koreanbots/api-docs
-⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
 ⬆️ Pushed 1 commit to koreanbots/js-sdk
@@ -88,7 +87,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Monday, June 7th 2021, 12:05:40 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, June 7th 2021, 12:51:33 am UTC</b></p>
 
 ## Statistics
 
