@@ -5,6 +5,7 @@
   <img src="https://aleen42.github.io/badges/src/node.svg" alt="node"/>
   <img src="https://aleen42.github.io/badges/src/javascript.svg" alt="js"/>
   <img src="https://aleen42.github.io/badges/src/typescript.svg" alt="ts"/>
+  <img src="https://komarev.com/ghpvc/?username=zero734kr&label=Profile%20views&color=0e75b6&style=flat" alt="zero734kr" />
 </p>
 
 
