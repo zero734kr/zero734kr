@@ -17,13 +17,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Developing Projects
 
-* [LostArk Discord](https://discord.gg/lark), all project repositories are currently private.
-  - LOSTARK bot ``(not available for invites)``
+* [KorLARK](https://discord.gg/lark), all project repositories are currently private.
+  - KorLARK Discord Bot ``(not available for invites because it is used for server administration for KorLARK)``
   - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(available for invites)``
-  - [lNotes](https://lnotes.zerokr.xyz) 
-  - [LostArk Discord Official Website](https://korlark.com) (in development)
+  - [KorLARK Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
-* [Olympia](https://olympia.gg), Web Dashboard based discord bot
 
 * Other projects [auto generated]:
 
