@@ -17,13 +17,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Developing Projects
 
-* [LostArk Discord](https://discord.gg/lark), all project repositories are currently private.
-  - LOSTARK bot ``(not available for invites)``
+* [KorLARK](https://discord.gg/lark), all project repositories are currently private.
+  - KorLARK Discord Bot ``(not available for invites because it is used for server administration for KorLARK)``
   - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(available for invites)``
-  - [lNotes](https://lnotes.zerokr.xyz) 
-  - [LostArk Discord Official Website](https://korlark.com) (in development)
+  - [KorLARK Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
-* [Olympia](https://olympia.gg), Web Dashboard based discord bot
 
 * Other projects [auto generated]:
 
@@ -46,11 +44,11 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## My Activities
 
 ```
+⬆️ Pushed 1 commit to zero734kr/zero734kr
 ⬆️ Pushed 1 commit to koreanbots/terms
 💪 Opened PR #15 in koreanbots/terms
 ⬆️ Pushed 3 commits to koreanbots/js-sdk
 ⬆️ Pushed 3 commits to koreanbots/js-sdk
-⬆️ Pushed 2 commits to koreanbots/js-sdk
 ```
 
 ## Interested In:
@@ -88,7 +86,7 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 
 ## Activities & Projects Update Status
 
-<p align="center">Last refresh: <b>Monday, June 21st 2021, 5:15:42 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, June 21st 2021, 5:47:16 pm UTC</b></p>
 
 ## Statistics
 
