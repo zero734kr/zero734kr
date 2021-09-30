@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center">Hello World</h1>
 <p align="center">
   <img src="https://aleen42.github.io/badges/src/react.svg" alt="react"/>
   <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=zero734kr&label=Profile%20views&color=0e75b6&style=flat" alt="zero734kr" />
 </p>
 
-
-Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/mern-stack) as my development stack.
+Hello 🌎!
+I'm currently working on [KorLARK](https://discord.gg/lark)
 
 ## Links
 
@@ -23,16 +23,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
   - [KorLARK Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 
-* Other projects [auto generated]:
-
-```
-⭐️ 3 📦 zero734kr/bmi-calculator
-⭐️ 3 📦 zero734kr/cody
-⭐️ 3 📦 zero734kr/ohmygirl-calendar-api
-⭐️ 2 📦 zero734kr/dbcm
-⭐️ 2 📦 zero734kr/process-keep-alive
-```
-
 ## Contribuiting to
 
 * [Dokdo](https://github.com/wonderlandpark/dokdo), easy debugging tool for discord.js.
@@ -40,16 +30,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
 ## Personal Projects
 
 * [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
-
-## My Activities
-
-```
-❗️ Closed issue #87 in koreanbots/js-sdk
-🗣 Commented on #87 in koreanbots/js-sdk
-📦 Released "v3.0.0-rc.4" in koreanbots/js-sdk
-⬆️ Pushed 1 commit to koreanbots/js-sdk
-⬆️ Pushed 2 commits to koreanbots/js-sdk
-```
 
 ## Interested In:
 
@@ -83,10 +63,6 @@ Hello World! I'm Full Stack Developer with [MERN Stack](https://www.mongodb.com/
     </a>
   </li>
 </ul>
-
-## Activities & Projects Update Status
-
-<p align="center">Last refresh: <b>Sunday, August 1st 2021, 5:05:44 pm UTC</b></p>
 
 ## Statistics
 
