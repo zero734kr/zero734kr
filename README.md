@@ -9,7 +9,7 @@
 </p>
 
 Hello 🌎!
-I'm currently working on [KorLARK](https://discord.gg/lark)
+I'm currently working at [KorLARK](https://discord.gg/lark)
 
 ## Links
 
