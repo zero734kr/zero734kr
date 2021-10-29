@@ -74,3 +74,7 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
   </a>
 </section>
 
+<p align="center">
+  <img align="center" src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
