@@ -31,14 +31,21 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
 
 * [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
 
+## Favorite Tech Stacks/Projects
+
+* [Next.js](https://github.com/vercel/next.js)
+* [SWC](https://github.com/swc-project/swc)
+* [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+* [Styled Components](https://github.com/styled-components/styled-components)
+* [SCSS](https://github.com/sass/sass)
+
 ## Interested In:
 
 * Frontend Tools
   - [Snowpack](https://snowpack.dev)
-* Web Designs (UI)
-* UX
-* Memory Ownership by Rust
-* GoRoutines by Golang
+* UI/UX
+* More clear, understandable, efficient codes
+* Goroutines in Golang
 
 ## Loves
 
@@ -48,7 +55,7 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
 
 <ul>
   <li>
-    <a href="mailto:zero734kr@gmail.com">
+    <a href="mailto:hello@zerokr.xyz">
       <img src="https://img.shields.io/badge/-zero734kr@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zero734kr@gmail.com" />
     </a>
   </li>
