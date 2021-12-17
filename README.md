@@ -1,4 +1,4 @@
-<h1 align="center">Hello World</h1>
+<h1 align="center">zero734kr</h1>
 <p align="center">
   <img src="https://aleen42.github.io/badges/src/react.svg" alt="react"/>
   <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
@@ -9,6 +9,7 @@
 </p>
 
 Hello 🌎!
+
 I'm currently working at [KorLARK](https://discord.gg/lark)
 
 ## Links
@@ -18,8 +19,8 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
 ## Developing Projects
 
 * [KorLARK](https://discord.gg/lark), all project repositories are currently private.
-  - KorLARK Discord Bot ``(not available for invites because it is used for server administration for KorLARK)``
-  - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(available for invites)``
+  - KorLARK Discord Bot ``(private, because it is used for server administration in KorLARK)``
+  - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(public)``
   - [KorLARK Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 
