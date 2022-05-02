@@ -24,33 +24,6 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
   - [KorLARK Official Website](https://korlark.com) (in development)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 
-## Contribuiting to
-
-* [Dokdo](https://github.com/wonderlandpark/dokdo), easy debugging tool for discord.js.
-
-## Personal Projects
-
-* [OH MY GIRL Calendar API](https://github.com/zero734kr/ohmygirl-calendar-api)
-
-## Favorite Tech Stacks/Projects
-
-* [Next.js](https://github.com/vercel/next.js)
-* [SWC](https://github.com/swc-project/swc)
-* [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
-* [Styled Components](https://github.com/styled-components/styled-components)
-* [SCSS](https://github.com/sass/sass)
-
-## Interested In:
-
-* Frontend Tools
-  - [Snowpack](https://snowpack.dev)
-* UI/UX
-* More clear, understandable, efficient codes
-* Goroutines in Golang
-
-## Loves
-
-* [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI)
 
 ## How to contact me:
 
