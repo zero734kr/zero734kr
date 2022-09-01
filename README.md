@@ -21,7 +21,7 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
 * [KorLARK](https://discord.gg/lark), all project repos are closed sources.
   - KorLARK Discord Bot ``(private, because it is used for server administration in KorLARK)``
   - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(public)``
-  - [KorLARK Official Website](https://korlark.com) (in development)
+  - [KorLARK Official Website](https://korlark.com)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 
 
