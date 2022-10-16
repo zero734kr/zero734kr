@@ -1,41 +1,21 @@
-<h1 align="center">zero734kr</h1>
-<p align="center">
-  <img src="https://aleen42.github.io/badges/src/react.svg" alt="react"/>
-  <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
-  <img src="https://aleen42.github.io/badges/src/node.svg" alt="node"/>
-  <img src="https://aleen42.github.io/badges/src/javascript.svg" alt="js"/>
-  <img src="https://aleen42.github.io/badges/src/typescript.svg" alt="ts"/>
-  <img src="https://komarev.com/ghpvc/?username=zero734kr&label=Profile%20views&color=0e75b6&style=flat" alt="zero734kr" />
-</p>
+## Let me introduce myself
 
-Hello 🌎!
+Working at [KorLARK](https://korlark.com), game community for LOST ARK.
 
-I'm currently working at [KorLARK](https://discord.gg/lark)
+Experienced with Next.js, React, Node.js, tailwindcss and various other stuffs.
 
-## Links
+## Projects
 
-* ~~website~~
-
-## Highlighted Projects
-
-* [KorLARK](https://discord.gg/lark), all project repos are closed sources.
-  - KorLARK Discord Bot ``(private, because it is used for server administration in KorLARK)``
-  - [lark bot](https://discord.com/api/oauth2/authorize?client_id=681219993911951360&permissions=8&scope=bot) ``(public)``
-  - [KorLARK Official Website](https://korlark.com)
+* [KorLARK](https://korlark.com) - [@korlark](https://github.com/korlark)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 
 
-## How to contact me:
+## Contacts
 
 <ul>
   <li>
-    <a href="mailto:hello@zerokr.xyz">
+    <a href="mailto:zero734kr@gmail.com">
       <img src="https://img.shields.io/badge/-zero734kr@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zero734kr@gmail.com" />
-    </a>
-  </li>
-  <li>
-    <a href="mailto:zero734kr@kakao.com">
-      <img src="https://img.shields.io/badge/-zero734kr@kakao.com-ffcd00?logo=Mail.Ru&logoColor=white&link=mailto:zero734kr@kakao.com" />
     </a>
   </li>
   <li>
@@ -54,8 +34,4 @@ I'm currently working at [KorLARK](https://discord.gg/lark)
     <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero734kr&layout=compact" />
   </a>
 </section>
-
-<p align="center">
-  <img align="center" src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
