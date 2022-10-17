@@ -2,7 +2,7 @@
 
 Working at [KorLARK](https://korlark.com), game community for LOST ARK.
 
-Experienced with Next.js, React, Node.js, tailwindcss and various other stuffs.
+Experienced with Next.js, React, Node.js, tailwindcss and other stuffs.
 
 ## Projects
 
