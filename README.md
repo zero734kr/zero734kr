@@ -1,12 +1,10 @@
-## Let me introduce myself
-
-Working at [KorLARK](https://korlark.com), game community for LOST ARK.
+## > whoami
 
 Experienced with Next.js, React, Node.js, tailwindcss and other stuffs.
 
 ## Projects
 
-* [KorLARK](https://korlark.com) - [@korlark](https://github.com/korlark)
+* [KLOA](https://kloa.gg) - [@korlark](https://github.com/korlark)
 * [Koreanbots JS/TS SDK](https://github.com/koreanbots/js-sdk)
 
 
